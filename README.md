@@ -14,6 +14,10 @@ It is based on the default theme for omf.
 $ omf theme oh-my-sushi
 ```
 
+```fish
+🍣 ~  
+```
+
 ## Contribute
 
 1. Fork it
