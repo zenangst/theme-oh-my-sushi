@@ -5,6 +5,10 @@
 </div>
 <br>
 
+```fish
+🍣 ~  
+```
+
 > Sushi theme for [Oh My Fish][omf-link].
 It is based on the default theme for omf.
 
@@ -12,10 +16,6 @@ It is based on the default theme for omf.
 
 ```fish
 $ omf theme oh-my-sushi
-```
-
-```fish
-🍣 ~  
 ```
 
 ## Contribute
